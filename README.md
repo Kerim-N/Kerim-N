@@ -27,7 +27,7 @@ class WhoAmI():
         self.dream = "Get into a Top University"
         self.hobbies = [
 			"Coding",
-	        "Making Arduino projects",
+			"Making Arduino projects",
 			"Reading Sci-Fi Novels"
 			"Being up all Night chasing that ONE BUG..."
 		]
